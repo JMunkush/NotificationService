@@ -7,13 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UserService" />
+        <module name="UserModule" />
+        <module name="NotificationModule" />
+        <module name="common-queue-name" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-queue-names" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="UserService" options="-parameters" />
+      <module name="NotificationModule" options="-parameters" />
+      <module name="UserModule" options="-parameters" />
+      <module name="common-queue-name" options="-parameters" />
+      <module name="common-queue-names" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,0 +1,5 @@
+io\munkush\com\repository\UserRepository.class
+io\munkush\com\service\ConsumeService.class
+io\munkush\com\model\User$UserBuilder.class
+io\munkush\com\model\User.class
+io\munkush\com\NotificationModuleMainClass.class

@@ -1,0 +1,13 @@
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\config\RabbitMQConfiguration.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\dto\RegisterRequestDto.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\repository\UserRepository.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\config\SecurityConfiguration.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\config\KeycloakRoleConverter.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\model\User.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\mapper\Mapper.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\mapper\RequestToRepresentationMapper.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\mapper\RequestToUserMapper.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\UserModuleMainClass.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\service\ProduceService.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\controller\UserController.java
+C:\Users\NANOTECH\Desktop\NotificationService\UserModule\src\main\java\io\munkush\app\service\UserService.java

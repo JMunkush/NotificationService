@@ -1,0 +1,14 @@
+io\munkush\app\mapper\RequestToRepresentationMapper.class
+io\munkush\app\config\RabbitMQConfiguration.class
+io\munkush\app\config\SecurityConfiguration.class
+io\munkush\app\model\User$UserBuilder.class
+io\munkush\app\config\KeycloakRoleConverter.class
+io\munkush\app\repository\UserRepository.class
+io\munkush\app\UserModuleMainClass.class
+io\munkush\app\service\ProduceService.class
+io\munkush\app\mapper\Mapper.class
+io\munkush\app\dto\RegisterRequestDto.class
+io\munkush\app\service\UserService.class
+io\munkush\app\controller\UserController.class
+io\munkush\app\model\User.class
+io\munkush\app\mapper\RequestToUserMapper.class
